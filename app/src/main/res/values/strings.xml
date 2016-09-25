@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DownloadImage</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="str_main_display_image">显示图片</string>
+    <string name="str_main_download_image">图片下载至本地</string>
+</resources>
